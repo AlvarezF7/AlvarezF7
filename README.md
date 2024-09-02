@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there, I´m Fernanda 👋
 
-<!--
-**AlvarezF7/AlvarezF7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+- 🔭 I’m currently working on Rock music Dataverse Chat a SPA, offers interaction via chat by connecting to the OpenAI API.
+- 🌱 I’m currently learning about JavaScript, HTML and CSS.
+- 🤔 I’m looking for help with how to increase my knowledge of JavaScript and Node.js.
+- ⚡ Fun fact: I enjoy watching anime, reading manga, and listening to J-rock. 
 
-Here are some ideas to get you started:
+## Education
+- Web Developer |Bootcamp Sence Desarrollo Full Stack Java trainee | Feb-July 2024
+- Web Developer |Laboratoria Bootcamp | May-October 2024
+- Auditor | Universidad Iberoamericana de Ciencias y Tecnologia | Mar 2013-May 2015
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!-- 
+ - 👯 I’m looking to collaborate on
 -->
