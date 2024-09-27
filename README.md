@@ -1,4 +1,4 @@
-## Hi there, I´m Fernanda 👋
+## Hi there, I´m Fernanda 
 
 ## About me
 - 🔭 I’m currently working on Rock music Dataverse Chat a SPA, offers interaction via chat by connecting to the OpenAI API.
