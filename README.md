@@ -11,7 +11,7 @@ A creative and curious junior web developer.  I’m interested in learning to us
 ## Education
 - Web Developer |Bootcamp Sence Desarrollo Full Stack Java trainee | Feb-July 2024
 - Web Developer |Laboratoria Bootcamp | May-October 2024
-- Auditor | Universidad Iberoamericana de Ciencias y Tecnologia | Mar 2013-May 2015
+- Accountant | Universidad Iberoamericana de Ciencias y Tecnologia | Mar 2013-May 2015
 
 
 
