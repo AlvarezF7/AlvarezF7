@@ -1,10 +1,12 @@
 ## Hi there, I´m Fernanda 
 
+A creative and curious junior web developer.  I’m interested in learning to use new technologies and languages such as HTML, CSS, and JavaScript.
+ 
 ## About me
 - 🔭 I’m currently working on Rock music Dataverse Chat a SPA, offers interaction via chat by connecting to the OpenAI API.
 - 🌱 I’m currently learning about JavaScript, HTML and CSS.
 - 🤔 I’m looking for help with how to increase my knowledge of JavaScript and Node.js.
-- ⚡ Fun fact: I enjoy watching anime, reading manga, and listening to J-rock. 
+- ⚡ Fun fact: I enjoy watching anime and listening to Japanese music 🎌. 
 
 ## Education
 - Web Developer |Bootcamp Sence Desarrollo Full Stack Java trainee | Feb-July 2024
