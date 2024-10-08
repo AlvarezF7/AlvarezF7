@@ -1,4 +1,4 @@
-## Hi there, I´m Fernanda 
+## Hi I´m Fernanda 
 
 A creative and curious junior web developer.  I’m interested in learning to use new technologies and languages such as HTML, CSS, and JavaScript.
  
