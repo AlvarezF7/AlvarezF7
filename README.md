@@ -5,13 +5,13 @@ A creative and curious junior web developer.  I’m interested in learning to us
 ## About me
 - 🔭 I'm currently part of the Full Stack JavaScript Bootcamp.
 - 🌱 I’m currently learning about JavaScript, PostgreSQL, Jsonwebtoken, HTML and CSS.
-- ⚡ Fun fact: I enjoy watching anime and listening to Japanese music 🎌. 
+- ⚡ Fun fact: I enjoy watching anime and listening to Japanese music 🎌🎶🎸⛩️ . 
 
 ## Education
-- Web Developer |Bootcamp Sence Desarrollo Full Stack Javascript trainee | Noviembre 2025-Abril 2026
-- Web Developer |Bootcamp Sence Desarrollo Full Stack Java trainee | Feb-July 2024
-- Web Developer |Laboratoria Bootcamp | May-October 2024
-- Accountant | Universidad Iberoamericana de Ciencias y Tecnologia | Mar 2013-May 2015
+- Web Developer | Bootcamp Sence Desarrollo Full Stack Javascript trainee | Noviembre 2025-Abril 2026.
+- Web Developer | Laboratoria Bootcamp | May-October 2024
+- Web Developer | Bootcamp Sence Desarrollo Full Stack Java trainee | Feb-July 2024
+- Accountant    | Universidad Iberoamericana de Ciencias y Tecnologia | Mar 2013-May 2015
 
 
 
